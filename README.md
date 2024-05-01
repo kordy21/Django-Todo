@@ -1,11 +1,9 @@
-Project TODO List Django:
+Project TODO List
 
-Developed RESTful API using Django for managing TODO list.
+A simple project TODO list application built with Django backend and Django REST framework. This application allows users to create, read, update, and delete TODO items efficiently. Perfect for managing tasks within projects.
 
-Created models for TODO items and implemented CRUD operations.
+Features:
 
-Utilized Django REST Framework for efficient API development.
-
-Integrated serializers to convert model instances to JSON format.
-
-Implemented endpoints for adding, updating, deleting, and listing TODO items.
+Create, read, update, and delete TODO items
+Django backend with Django REST framework
+Simple and intuitive user interface
